@@ -1,4 +1,4 @@
-### **Hi and welcome to my profile.**
+### **Welcome to My Profile**
    
 I'm Sinéad Bryant (she/her) and I have just started my first steps into a career in coding.
 I have a first class maths degree and it was in my third year of studying that I found my love for coding.
