@@ -10,7 +10,7 @@ I’m currently learning Data Science with CoGramma. I’m looking to collaborat
 
 I live in the vibrant city of Bristol in the UK with my two wonderful children, Milo (7) and Alara (5).
 
-If you are looking for people to collaborate on a project with then please get in touch. My email is sineadbryant90@gmail.com.>
+If you are looking for people to collaborate on a project with then please get in touch. My email is sineadbryant90@gmail.com.
 
 <p align="center">
 <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611l9eqn76njkf2sxknvpc42zc7hg3kdsy93wz5nmuc&ep=v1_gifs_search&rid=giphy.gif&ct=g)" 
