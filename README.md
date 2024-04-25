@@ -6,7 +6,7 @@ Hi, I'm Sinéad Bryant (she/her) and I have just started my first steps into a c
 I have a first class maths degree and it was in my third year of studying that I found my love for coding.
 I coded intricate mathematical problems from my second year studies into multiple choice questions for students to come.
  
-I’m currently learning Data Science with CoGramma. I’m looking to collaborate on any size of project that will widen my knowledge of python, preferably that will be applicable in data science but I love learning anything new and honing the skills I've developed so far.
+I’m currently learning Data Science and Machine Learning with CoGrammar. I’m looking to collaborate on any size of project that will widen my knowledge of python, preferably with appliations in machine learning but I love learning anything new and honing the skills I've developed so far.
 
 I live in the vibrant city of Bristol in the UK with my two wonderful children, Milo (7) and Alara (5).
 
